@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: Dpub count down widget
- Plugin URI: http://azur256.com/
+ Plugin URI: http://stryh.com
  Description: Count down widget for Dpub
- Author: @azur256
- Version: 0.1
- Author URI: http://azur256.com
+ Author: @saita_ryouhei
+ Version: 1.0
+ Author URI: http://stryh.com
  */
 
 // Plugin (option) cleanup
